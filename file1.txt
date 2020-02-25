@@ -1,0 +1,2 @@
+hello eorld cd ..
+hello world ls
