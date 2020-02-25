@@ -1,2 +1,3 @@
 hello eorld cd ..
 hello world ls
+hello smita
